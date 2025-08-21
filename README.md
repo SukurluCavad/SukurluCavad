@@ -1,6 +1,6 @@
 ## Hi I'm Cavad 👋
 
-<img src="images/tumblr_58dcc5448039bfbf41a16a467a13988e_c5c231d2_640.gif" width="400"/>
+<img src="images/tumblr_58dcc5448039bfbf41a16a467a13988e_c5c231d2_640.gif" width="400" height="200"/>
 
 
 
