@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm Cavad 👋
 
-<!--
-**SukurluCavad/SukurluCavad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Alt text](image-url)
+![My Photo](https://thefictionalfanatic1.wordpress.com/wp-content/uploads/2023/03/nagi-2910509735-e1679362302540.jpg?w=1078)
 
 - 🔭 I’m currently working on ...
+KommoOdooIntegration
 - 🌱 I’m currently learning ...
+ERP&CRM
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+Asp.Net Core Api projects
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ASP.NET Core, Web APIs, and C# development
+Integrating Odoo with external services (Kommo, APIs, etc.)
+Backend architecture and database design
+RESTful APIs and authentication (JWT, OAuth)
 - ⚡ Fun fact: ...
+Coding always sounds better with my favorite playlist on.
 -->
