@@ -1,6 +1,6 @@
 ## Hi I'm Cavad 👋
 
-<img src="	https://i.pinimg.com/originals/65/93/f0/6593f0db43290bed0ca90a92f208a914.gif" width="200"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixm…QiXX0.UvmhxrvEYbk4P2QvG2MVKf-pLPNToB7py54UwxqhaS0" width="200"/>
 
 
 
