@@ -1,6 +1,7 @@
 ## Hi I'm Cavad 👋
 
-<img src="https://thefictionalfanatic1.wordpress.com/wp-content/uploads/2023/03/nagi-2910509735-e1679362302540.jpg?w=1078" width="200"/>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+
 
 
 - 🔭 I’m currently working on =>
